@@ -10,7 +10,7 @@ Este é um programa de gerenciamento de funcionários, que classifica os funcion
 
 -possuem_carro: um conjunto que contém os funcionários que possuem um carro.
 
-Como usar:
+# Como usar:
 
 -Clone ou faça o download deste repositório.
 
@@ -26,7 +26,7 @@ Como usar:
 
 -Os resultados serão impressos no console.
 
-Exemplo:
+# Exemplo:
 
 funcionarios = {'Ana', 'Marcos', 'Alice', 'Pedro', 'Sophia', 'Bruno', 'Melissa'}
 
@@ -48,7 +48,7 @@ print(f"Funcionários no turno diurno que possuem carro: {lista_carro_dia}")
 
 print(f"Funcionários que não possuem carro: {sem_carro}")
 
-Notas:
+# Notas:
 
 -Certifique-se de ter o Python instalado em seu sistema.
 
